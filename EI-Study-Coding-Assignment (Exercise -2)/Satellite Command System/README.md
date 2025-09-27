@@ -94,42 +94,4 @@ The application includes a logging mechanism using the SatelliteLogger class. Ex
 
 ## Required Output
 
-PS C:\Users\Vaishali\Desktop\EI interview\Ei-Study-Coding-Project\EI-Study-Coding-Assignment (Exercise -2)>  & 'C:\Program Files\Java\jdk-25\bin\java.exe' '-XX:+ShowCodeDetailsInExceptionMessages' '-cp' 'C:\Users\Vaishali\AppData\Roaming\Cursor\User\workspaceStorage\e1494d46003dda66a2f598191ff20d81\redhat.java\jdt_ws\EI-Study-Coding-Assignment (Exercise -2)_42f338e5\bin' 'Main'
-Available commands:
-1. rotate(direction) - where direction can be: North/north, South/south, East/east, West/west
-2. activatepanels() - activate solar panels
-3. deactivatepanels() - deactivate solar panels
-4. collectdata() - collect data from satellite
-Enter command (or 'exit' to finish): rotate(North)
-Sept 26, 2025 9:37:05 AM SatelliteLogger log
-INFO: Log: Satellite rotated to North.
-Enter command (or 'exit' to finish): activatePanels()
-Sept 26, 2025 9:37:16 AM SatelliteLogger log
-INFO: Log: Solar panels activated.
-Enter command (or 'exit' to finish): collectData()
-Sept 26, 2025 9:37:25 AM SatelliteLogger log
-INFO: Log: Data collected.
-Enter command (or 'exit' to finish): deactivatePanels()
-Sept 26, 2025 9:37:35 AM SatelliteLogger log
-INFO: Log: Solar panels deactivated.
-Enter command (or 'exit' to finish): rotate(East)
-Sept 26, 2025 9:37:51 AM SatelliteLogger log
-INFO: Log: Satellite rotated to East.
-Enter command (or 'exit' to finish): activatePanels()
-Sept 26, 2025 9:38:00 AM SatelliteLogger log
-INFO: Log: Solar panels activated.
-Enter command (or 'exit' to finish): exit
-
-Final State:
-Orientation: East
-Solar Panels: Active
-Data Collected: 10
-
-Command History:
-RotateCommand
-ActivatePanelsCommand
-CollectDataCommand
-DeactivatePanelsCommand
-RotateCommand
-ActivatePanelsCommand
-PS C:\Users\Vaishali\Desktop\EI interview\Ei-Study-Coding-Project\EI-Study-Coding-Assignment (Exercise -2)>
+<img width="1177" height="545" alt="image" src="https://github.com/user-attachments/assets/bbfe5037-56e4-4a7d-b955-00110feaf1fb" />
