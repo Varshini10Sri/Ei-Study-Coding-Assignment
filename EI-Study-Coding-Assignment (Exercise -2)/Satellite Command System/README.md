@@ -33,7 +33,7 @@ The Satellite Control System is a Java-based simulator that models satellite ope
 1. Clone the repository:
 
    ```bash  ''
-   git clone 
+   git clone 'https://github.com/Varshini10Sri/Ei-Study-Coding-Assignment'
 2. Navigate to the project directory:
 
    ```bash
