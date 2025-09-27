@@ -94,4 +94,5 @@ The application includes a logging mechanism using the SatelliteLogger class. Ex
 
 ## Required Output
 
-<img width="1177" height="545" alt="image" src="https://github.com/user-attachments/assets/bbfe5037-56e4-4a7d-b955-00110feaf1fb" />
+<img width="1177" height="674" alt="image" src="https://github.com/user-attachments/assets/4ea2fafc-f6cb-43e8-b042-d21daedd4922" />
+
