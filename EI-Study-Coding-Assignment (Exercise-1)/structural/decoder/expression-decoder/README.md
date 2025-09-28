@@ -41,7 +41,7 @@ The Expression Decoder is a TypeScript-based console application that evaluates 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/expression-decoder.git
+   git clone https://github.com/Varshini10Sri/Ei-Study-Coding-Assignment
    ```
 
 2. Navigate to the project directory:
