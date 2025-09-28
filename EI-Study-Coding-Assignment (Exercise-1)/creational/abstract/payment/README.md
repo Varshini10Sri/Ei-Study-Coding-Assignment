@@ -67,7 +67,7 @@ src/
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/payment-gateway.git
+   git clone https://github.com/Varshini10Sri/Ei-Study-Coding-Assignment
    ```
 
 2. Navigate to the project directory:
