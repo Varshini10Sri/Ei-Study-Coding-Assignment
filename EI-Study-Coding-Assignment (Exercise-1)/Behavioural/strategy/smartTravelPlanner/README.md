@@ -1,6 +1,6 @@
 # Smart Travel Planner
 
-The Smart Travel Planner is a **TypeScript-based console application** that helps users compare and select the best transportation options for their journeys. It provides a command-line interface for analyzing travel routes across multiple transport modes (Car, Plane, Train, Bus) with detailed cost, time, comfort, and suitability calculations. The system demonstrates **object-oriented design principles**, **Strategy pattern implementation**, and interactive user input handling.
+The Smart Travel Planner is a TypeScript-based console application that helps users compare and select the best transportation options for their journeys. It provides a command-line interface for analyzing travel routes across multiple transport modes (Car, Plane, Train, Bus) with detailed cost, time, comfort, and suitability calculations. The system demonstrates object-oriented design principles, Strategy pattern implementation, and interactive user input handling.
 
 ---
 
@@ -41,7 +41,7 @@ The Smart Travel Planner is a **TypeScript-based console application** that help
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Varshini10Sri/smart-travel-planner.git
+   git clone https://github.com/Varshini10Sri/Ei-Study-Coding-Assignment
    ```
 
 2. Navigate to the project directory:
