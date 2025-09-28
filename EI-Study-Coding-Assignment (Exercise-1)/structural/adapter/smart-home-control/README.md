@@ -66,7 +66,7 @@ src/
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/smart-home-control.git
+   git clone https://github.com/Varshini10Sri/Ei-Study-Coding-Assignment
    ```
 
 2. Navigate to the project directory:
@@ -158,14 +158,6 @@ The Adapter Pattern allows incompatible interfaces to work together by creating 
    - `NestThermostatAdapter`: Translates `turnOn()` → `activateHeating()`
    - `RingCameraAdapter`: Translates `turnOn()` → `startRecording()` + `enableNightVision()`
 
-### Benefits
-
-* **Unified Interface:** All devices respond to the same commands
-* **Extensibility:** New devices can be added without modifying existing code
-* **Maintainability:** Device-specific logic is encapsulated in adapters
-* **Flexibility:** Easy to swap or upgrade individual devices
-
----
 
 ## Supported Devices
 
