@@ -40,7 +40,7 @@ The Fitness Tracker is a **TypeScript-based console application** that helps use
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/fitness-tracker.git
+   git clone https://github.com/Varshini10Sri/Ei-Study-Coding-Assignment
    ```
 
 2. Navigate to the project directory:
