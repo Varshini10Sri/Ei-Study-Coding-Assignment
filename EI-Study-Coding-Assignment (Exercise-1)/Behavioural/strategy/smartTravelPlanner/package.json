@@ -1,0 +1,26 @@
+{
+  "name": "travel-planner",
+  "version": "1.0.0",
+  "description": "Smart Travel Planner with Strategy Pattern",
+  "main": "dist/index.js",
+  "type": "module",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js",
+    "dev": "tsx src/index.ts"
+  },
+  "keywords": [
+    "travel",
+    "planner",
+    "strategy",
+    "typescript",
+    "cli"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "tsx": "^4.6.2",
+    "typescript": "^5.0.0"
+  }
+}

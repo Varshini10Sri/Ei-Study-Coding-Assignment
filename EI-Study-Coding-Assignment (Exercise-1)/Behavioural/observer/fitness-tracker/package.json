@@ -1,0 +1,24 @@
+{
+  "name": "fitness-tracker",
+  "version": "1.0.0",
+  "description": "Fitness tracker with observer pattern",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js",
+    "dev": "ts-node src/index.ts"
+  },
+  "keywords": [
+    "fitness",
+    "tracker",
+    "observer",
+    "typescript"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.0.0"
+  }
+}

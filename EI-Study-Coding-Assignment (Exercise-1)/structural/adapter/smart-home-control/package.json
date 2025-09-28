@@ -1,0 +1,26 @@
+{
+  "name": "smart-home-control",
+  "version": "1.0.0",
+  "description": "Smart Home Control System with Adapter Pattern",
+  "main": "dist/index.js",
+  "type": "module",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js",
+    "dev": "tsx --no-cache src/index.ts"
+  },
+  "keywords": [
+    "smart-home",
+    "iot",
+    "adapter",
+    "typescript",
+    "cli"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "tsx": "^4.6.2",
+    "typescript": "^5.0.0"
+  }
+}
