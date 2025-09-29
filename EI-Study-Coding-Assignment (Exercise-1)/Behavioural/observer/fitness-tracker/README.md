@@ -121,31 +121,4 @@ The system applies object-oriented design principles with the following core com
 
 ## Sample Output
 
-```bash
-> npm run dev
-
---- Add New Activity ---
-Activity type (running/cycling/swimming/walking): running
-Duration (minutes): 30
-Calories burned: 250
-Distance (km): 5
-[Calorie Tracker] Total calories: 250
-Add another activity? (y/n): y
-
---- Add New Activity ---
-Activity type (running/cycling/swimming/walking): cycling
-Duration (minutes): 45
-Calories burned: 400
-Distance (km): 15
-[Calorie Tracker] Total calories: 650
-Add another activity? (y/n): n
-
-Session Ended.
-Activities Logged:
-- Running | 30 min | 250 cal | 5 km
-- Cycling | 45 min | 400 cal | 15 km
-
-Total Calories Burned: 650
-```
-
-
+<img width="1548" height="833" alt="image" src="https://github.com/user-attachments/assets/73fa6a84-ee9c-475c-ac51-d9014219b7cf" />
