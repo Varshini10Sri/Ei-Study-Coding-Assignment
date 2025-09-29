@@ -8,7 +8,7 @@ This repository contains the tasks completed as part of the **Ei-Study Company C
 
 ---
 
-## 📂 Repository Structure
+##  Repository Structure
 
 ```
 Ei-Study-Coding-Assignment/
@@ -27,11 +27,11 @@ Ei-Study-Coding-Assignment/
 
 ---
 
-## 🚀 Exercise 1 – Design Patterns (TypeScript)
+##  Exercise 1 – Design Patterns (TypeScript)
 
 As part of Exercise-1, six different design patterns were implemented in **TypeScript** to demonstrate their real-world applications.
 
-### ✅ Implemented Patterns
+###  Implemented Patterns
 
 1. **Observer Pattern** – Notifies dependent objects when the state changes.
 2. **Strategy Pattern** – Dynamically selects and applies an algorithm at runtime.
@@ -40,7 +40,7 @@ As part of Exercise-1, six different design patterns were implemented in **TypeS
 5. **Adapter Pattern** – Allows incompatible interfaces to work together.
 6. **Decorator Pattern** – Adds new functionality to objects without changing their structure.
 
-### ▶️ How to Run
+###  How to Run
 
 1. Make sure **Node.js** is installed on your system.
 2. Navigate to the **Exercise-1** folder.
@@ -56,11 +56,11 @@ npm install
 npm run dev
 ```
 
-> 💡 This command will compile and execute all TypeScript files automatically.
+>  This command will compile and execute all TypeScript files automatically.
 
 ---
 
-## 🌍 Exercise 2 – Mini Project (Java)
+##  Exercise 2 – Mini Project (Java)
 
 ### Project: **Satellite Command System**
 
@@ -72,7 +72,7 @@ The **Satellite Command System** is a **Java-based simulator** that models satel
 * Demonstrating **object-oriented design principles**
 * Implementing **command pattern** and error handling
 
-### ▶️ How to Run (Java)
+###  How to Run (Java)
 
 1. Navigate to the **Exercise-2** folder.
 2. Compile the Java files:
@@ -88,7 +88,7 @@ java FileName
 ```
 
 ---
-## 🛠️ Technologies Used
+##  Technologies Used
 
 * **Languages**: TypeScript, Java
 * **Concepts**: OOP, Software Design Patterns, System Simulation
@@ -96,7 +96,7 @@ java FileName
 
 ---
 
-## 📖 Learning Outcomes
+##  Learning Outcomes
 
 * Implemented six major **software design patterns** using **TypeScript**.
 * Learned the role of design patterns in building reusable and maintainable code.
